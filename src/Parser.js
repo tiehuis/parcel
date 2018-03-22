@@ -35,6 +35,7 @@ class Parser {
     this.registerExtension('html', './assets/HTMLAsset');
     this.registerExtension('htm', './assets/HTMLAsset');
     this.registerExtension('rs', './assets/RustAsset');
+    this.registerExtension('zig', './assets/ZigAsset');
 
     this.registerExtension('webmanifest', './assets/WebManifestAsset');
 
